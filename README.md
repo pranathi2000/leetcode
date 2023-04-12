@@ -16,3 +16,4 @@ I am redoing leetcode problems day by day and uploading my solutions here
 | 38      | [Count and Say](https://leetcode.com/problems/count-and-say/) |
 | 77      | [Combinations](https://leetcode.com/problems/combinations/) |
 | 175      | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | SQL|
+| 181      | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | SQL|
