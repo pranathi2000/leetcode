@@ -14,6 +14,7 @@ I am redoing leetcode problems day by day and uploading my solutions here
 | 11      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |
 | 12      | [Integer To Roman](https://leetcode.com/problems/integer-to-roman/) |
 | 17      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 24      | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |
 | 26      | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27      | [Remove Element](https://leetcode.com/problems/remove-element/) |
 | 38      | [Count and Say](https://leetcode.com/problems/count-and-say/) |
