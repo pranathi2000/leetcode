@@ -21,6 +21,7 @@ I am redoing leetcode problems day by day and uploading my solutions here
 | 49      | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |
 | 73      | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |
 | 77      | [Combinations](https://leetcode.com/problems/combinations/) |
+| 94      | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100      | [Same Tree](https://leetcode.com/problems/same-tree/) |
 | 175      | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | SQL|
 | 181      | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | SQL|
