@@ -18,6 +18,7 @@ I am redoing leetcode problems day by day and uploading my solutions here
 | 26      | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 27      | [Remove Element](https://leetcode.com/problems/remove-element/) |
 | 38      | [Count and Say](https://leetcode.com/problems/count-and-say/) |
+| 49      | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |
 | 77      | [Combinations](https://leetcode.com/problems/combinations/) |
 | 100      | [Same Tree](https://leetcode.com/problems/same-tree/) |
 | 175      | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | SQL|
