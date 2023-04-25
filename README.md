@@ -25,6 +25,7 @@ I am redoing leetcode problems day by day and uploading my solutions here
 | 77      | [Combinations](https://leetcode.com/problems/combinations/) |
 | 94      | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100      | [Same Tree](https://leetcode.com/problems/same-tree/) |
+| 120      | [Triangle](https://leetcode.com/problems/triangle/) |
 | 168      | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |
 | 171      | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 | 175      | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | SQL|
