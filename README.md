@@ -32,3 +32,4 @@ I am redoing leetcode problems day by day and uploading my solutions here
 | 175      | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | SQL|
 | 181      | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | SQL|
 | 183      | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | SQL|
+| 997      | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) |
