@@ -24,6 +24,7 @@ I am redoing leetcode problems day by day and uploading my solutions here
 | 54      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |
 | 58      | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |
 | 73      | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 74      | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 77      | [Combinations](https://leetcode.com/problems/combinations/) |
 | 94      | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100      | [Same Tree](https://leetcode.com/problems/same-tree/) |
